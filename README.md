@@ -1,1 +1,1 @@
-DockerでLaravel Sailを起動させるまでのテストリポジトリ
+LaravelをDockerで実行環境を構築するまでの備忘録リポジトリ。
